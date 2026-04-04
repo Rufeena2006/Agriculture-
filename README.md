@@ -35,12 +35,10 @@ Core Modules:
  Uses drones for spraying and monitoring
 5. Team Members
 Typical AgriEdge project team includes:
-*  Software Developers – Build apps and systems
-*  Data Scientists – Analyze agricultural data
-*  Agricultural Experts (Agronomists) – Provide farming knowledge
-*  IoT Engineers – Handle sensors and devices
-*  Drone Specialists – Manage drone operations
-*  Project Manager – Coordinates the entire system
+*  F Nefath Rufeena
+*  B Kishore
+*  M Mohana Lingam
+*  M Divakar 
 6. Outcome / Benefits
 * Increased crop yield and productivity
 * Reduced farming cost (water, fertilizer, labor)
