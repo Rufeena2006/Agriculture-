@@ -46,7 +46,7 @@ Typical AgriEdge project team includes:
 * Improves decision-making with data
 * Reduces crop loss due to diseases
 * Supports food security and climate-friendly farming
-✅ Result
+Result
 AgriEdge is a smart farming system that uses technology to help farmers:
 Grow more crops
 Use fewer resources
