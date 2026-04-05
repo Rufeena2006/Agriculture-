@@ -16,46 +16,13 @@ Main goal:
  *  Drone-based spraying and monitoring
  *   Weather forecasting & alerts
  *    Early disease detection and alerts
-4. Modules
-AgriEdge consists of different smart modules:
-Core Modules:
-✓ Crop Monitoring Module:
- Tracks crop health using satellite and sensors
-✓ Irrigation Module (AquaEdge):
- Controls water usage based on soil moisture
-✓ Fertilization Module (FertiEdge):
- Suggests correct fertilizer usage
-✓ Disease Detection Module (PhytoEdge):
- Detects plant diseases early
-✓ Yield Prediction Module (YieldEdge):
-  Predicts crop production using AI
-✓ Carbon Tracking Module (CarboEdge):
- Measures environmental impact
-✓ Drone Module (SprayEdge):
- Uses drones for spraying and monitoring
-5. Team Members
+
+4.Team Members
 Typical AgriEdge project team includes:
 *  F Nefath Rufeena
 *  B Kishore
 *  M Mohana Lingam
-*  M Divakar 
-6. Outcome / Benefits
-* Increased crop yield and productivity
-* Reduced farming cost (water, fertilizer, labor)
-* Promotes sustainable agriculture
-* Improves decision-making with data
-* Reduces crop loss due to diseases
-* Supports food security and climate-friendly farming
-Result
-AgriEdge is a smart farming system that uses technology to help farmers:
-Grow more crops
-Use fewer resources
-Make better decisions
-Earn more profit
-Sample Output (Example)
-A farmer using AgriEdge:
-Gets alert: “Soil moisture low → irrigate today”
-Receives fertilizer recommendation
-Detects disease early via app
-Achieves higher yield with less water
+*  M Divakar
+
+
 
